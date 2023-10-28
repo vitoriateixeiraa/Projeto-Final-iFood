@@ -16,7 +16,7 @@ Projeto final turma #1096 - Neste projeto final, eu, como participantes da turma
 
 ## 🚀 Tecnologias
 
-Tecnologias utilizazadas no projeto:
+Tecnologias utilizadas no projeto:
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
