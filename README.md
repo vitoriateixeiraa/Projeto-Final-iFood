@@ -24,7 +24,7 @@ Tecnologias utilizadas no projeto:
 
 ## 🛠 Layout
 
-O layout da aplicação está disponível no [Figma](<https://www.figma.com/file/jViWt7CTcV2jei6ZhwTlkQ/Food-Delivery-Landing-Page-%F0%9F%8D%95-(Community)?type=design&node-id=129%3A434&mode=dev>). Para poder utilizá-lo é necessário uma conta no Figma.
+O layout da aplicação está disponível no [Figma](https://www.figma.com/file/jViWt7CTcV2jei6ZhwTlkQ/iFood?type=design&node-id=0%3A1&mode=design&t=lIuxmjuDsRJqpt07-1). Para poder utilizá-lo é necessário uma conta no Figma.
 
 - Git Hub: <a href="https://github.com/vitoriateixeiraa" target='_blanck' >@vitoriateixeiraa</a>
 - Linkedin: <a href="https://www.linkedin.com/in/vitoria-teiixeiira/" target='_blanck' >@vitoriateiixeiira</a>
